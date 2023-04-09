@@ -34,5 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikitaparmar04&show_icons=true&locale=en" alt="nikitaparmar04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaparmar04&" alt="nikitaparmar04" /></p>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nikitaparmar04&bg_color=44234d&color=b1a5b0&line=c816d4&point=e058e9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
