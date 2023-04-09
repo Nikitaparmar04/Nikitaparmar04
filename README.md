@@ -19,7 +19,7 @@
 ## 📲Connect with me
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-parmar-638233262/)
-<a href="https://twitter.com/nikita__parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikita__parmar" height="30" width="40" /></a>
+[![twitter](https://twitter.com/nikita__parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikita__parmar" height="30" width="40")
 <a href="https://linkedin.com/in/nikita-parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita-parmar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nikitaparmar04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikitaparmar04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/nikitaparend7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikitaparend7" height="30" width="40" /></a>
