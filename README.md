@@ -19,7 +19,7 @@
 ## 📲Connect with me
  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikita-parmar-638233262/)
  [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Nikita__parmar)
- [![LeetCode user Nikitaparmar0](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%uuc110 &logo=leetcode&logoColor=yellow)](https://leetcode.com/Nikitaparmar04/)
+ [![LeetCode user Nikitaparmar04](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116(https://leetcode.com/uuc110/)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Nikitaparmar04)
 
 
