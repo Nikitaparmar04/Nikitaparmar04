@@ -25,7 +25,7 @@
 
 ## 🧑👩‍💻Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,kotlin,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,html,css,js,kotlin,bootstrap,docker,aws,jenkins,aws,linux,devops)](https://skillicons.dev)
 
 ## 📈States
 
