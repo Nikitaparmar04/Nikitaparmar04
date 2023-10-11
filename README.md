@@ -35,5 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikitaparmar04&" alt="nikitaparmar04" /></p>
 
- [![An image of @nikitaparmar04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikitaparmar04)](https://holopin.io/@nikitaparmar04)
-
+[![An image of @nikitaparmar04's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikitaparmar04)](https://holopin.io/@nikitaparmar04)
